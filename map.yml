@@ -1,0 +1,4 @@
+map_name: Shifting_Order
+games:
+- {game_name: 'Shifting_Order', file_name: Shifting_Order.xml}
+
